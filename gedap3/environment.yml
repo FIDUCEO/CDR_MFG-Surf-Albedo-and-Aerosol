@@ -1,0 +1,22 @@
+name: gedap3
+channels:
+  - defaults
+  - conda-forge
+  - cablab
+dependencies:
+  - python=3.6
+  - netcdf-cxx4=4.3.0
+  - eigen=3.3
+  - netcdf4>=1.2
+  - cython
+  - numpy>=1.11
+  - scipy
+  - matplotlib
+  - click
+  - setuptools
+  - coverage >= 4.4
+  - dask >= 0.15.2
+  - gridtools >= 0.4.1
+  - numexpr >= 2.6.2
+  - xarray >= 0.8.2
+  

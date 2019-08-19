@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/pybind/pybind11
+	branch = v2.2.1
+	commit = 86e2ad4f77442c3350f9a2476650da6bee253c52
+	parent = ed534af76a9a9070db4fdc9560755360578bf41c
+	cmdver = 0.3.1

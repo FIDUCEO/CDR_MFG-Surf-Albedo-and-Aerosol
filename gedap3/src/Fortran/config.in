@@ -1,0 +1,14 @@
+#define _PARALLEL_
+#define ONE_SIGMA
+#define QUADRATURE         8
+#define MAXBAND            1
+#define MAXNBRAEROSOL      1
+#define MAXNBRANGLE        64
+#define INSTANTANEOUS
+#define MACORRECTION
+
+
+#undef TEST_COST
+#undef VERBOSE
+#undef PRINT_PIXEL_IN
+#undef PRINT_PIXEL_OUT
