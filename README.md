@@ -1,9 +1,9 @@
-# CDR_MFG-Surf-Albedo-and-Aerosol
-CDR - Meteosat Surface Albedo and Aerosol
- Copyright (C) Rayference, 2019
+# CDR_MFG-Surf-Albedo-and-Aerosol  
+CDR - Meteosat Surface Albedo and Aerosol  
+ Copyright (C) Rayference, 2019  
 This code was developed for the EC project “Fidelity and Uncertainty in   
 Climate Data Records from Earth Observations (FIDUCEO)”. 
-Grant Agreement: 638822
+Grant Agreement: 638822  
   
 Version 0.1.1 Reviewed and approved by Frank Rüthrich, EUMETSAT 19-08-2019  
   
